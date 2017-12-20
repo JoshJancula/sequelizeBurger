@@ -1,0 +1,43 @@
+
+
+h2 {
+  text-size: 20px;
+  color: #000000;
+  font-weight: bolder;
+}
+
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #faebd7;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+
+#burgerImage {
+  height: 300px;
+  width: 400px;
+} 
+
+
+#createBurger, #wasTastey, #toEat {
+  text-align: center;
+  margin: 30px;
+}
+
+#head {
+  height: 50px;
+}
